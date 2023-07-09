@@ -46,7 +46,7 @@
 
 Required :-
 
-- `APP_ID`  =  Get this value from my.telegram.org
+- `APP_ID`  = 82772836
 - `API_HASH`  =  Get this value from my.telegram.org
 - `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
